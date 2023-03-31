@@ -1,0 +1,192 @@
+Last login: Fri Mar 31 16:22:17 on ttys000
+jalhadeff@jalhade-ltmnpuu ~ % npx terminalgpt chat
+
+  **************** Welcome to terminalGPT ****************
+
+     __
+<(o )___
+ ( ._> /
+  `---'
+
+  usage:
+    TerminalGPT will ask you to add your OpenAI API key. Don't worry, it will be saved on your machine locally.
+
+    Terminal will prompt you to enter a message. Type your message and press enter.
+    Terminal will then prompt you to enter a response. Type your response and press enter.
+
+    To exit, type "exit" and press enter.
+
+    # Commands
+
+  
+✔ You:  … What are some important things I should know about taking care of my car?
+GPT-3: 
+```Here are some important things to know about taking care of your car:```
+
+1. Regular maintenance: It's important to follow the maintenance schedule recommended by your car's manufacturer. This includes oil changes, tire rotation, and other important checks from time to time.
+
+2. Cleaning: Keeping your car clean helps to protect its exterior from dirt and grime that can damage the paint job over time. It also keeps the interior clean and comfortable for passengers.
+
+3. Check the fluids: Regularly check the levels of fluids in your car, including oil, coolant, brake fluid, and transmission fluid. You should also keep an eye out for leaks.
+
+4. Tire care: Check the tire pressure regularly and keep them balanced and aligned. If your tires are worn out, replace them immediately to avoid accidents.
+
+5. Drive safely: Avoid aggressive driving, sudden stops and starts, and reckless driving. These can cause excessive wear and tear on your car, which can lead to costly repairs.
+
+6. Store properly: If you plan to store your car for an extended period, make sure to store it properly. This includes keeping the battery charged, disconnecting the battery, and inflating the tires to the recommended pressure.
+
+✔ Copy recent code to clipboard? … no
+✔ You:  … How do I check the oil in my car? How often do I need to change it?
+GPT-3: 
+```To check the oil in your car, follow these steps:```
+
+1. Park your car on a level surface and turn off the engine.
+
+2. Wait for a few minutes to allow the oil to settle in the oil pan.
+
+3. Locate the oil dipstick on your engine (usually marked with a bright color or labeled "engine oil").
+
+4. Pull out the dipstick and wipe it clean with a rag or paper towel.
+
+5. Re-insert the dipstick all the way back into its tube and pull it out again.
+
+6. Check the oil level on the dipstick. The oil level should be between the high and low marks. If it's below the low mark, you need to add more oil.
+
+```How often you need to change your oil depends on several things, including:```
+
+1. Your car's make and model.
+
+2. The age of your car.
+
+3. The type of oil you use (synthetic, conventional, or high-mileage).
+
+4. Your driving style (short-trips, long trips, etc.).
+
+In general, most manufacturers recommend changing your oil every 5,000 to 7,500 miles or every 6 months, whichever comes first. However, it's a good idea to check your car's owner's manual for their specific recommendations.
+
+✔ Copy recent code to clipboard? … no
+✔ You:  … How do I change my oil in my car?
+GPT-3: 
+```Here are some general steps for changing the oil in your car:```
+
+1. Gather the necessary supplies: You will need fresh oil, a new oil filter, a socket set, a drain pan, a funnel, and a rag.
+
+2. Warm up the engine: Run the engine for a few minutes to warm up the oil, which will help it drain more easily.
+
+3. Locate the drain plug: Find the oil drain plug on the underside of your car, usually located on the oil pan.
+
+4. Place the drain pan: Position the drain pan beneath the drain plug and remove the plug to let the old oil drain out. Wait for the oil to fully drain and then replace the plug.
+
+5. Replace the oil filter: Use a wrench to remove the old oil filter and replace it with a new one, making sure to lubricate the gasket with a little bit of oil before installing.
+
+6. Add new oil: Pour the new oil into the engine using a funnel, be sure to add the correct amount and type of oil recommended by the manufacturer.
+
+7. Check the oil level: After adding the oil, check the oil level using the dipstick and add more if necessary.
+
+```It's important to dispose of used oil properly.```
+
+Make sure to place the used oil in a sealed container and take it to a recycling facility that accepts used motor oil. Don't dump the old oil on the ground, pour it down a storm drain, or throw it in the trash.
+
+✔ Copy recent code to clipboard? … no
+✔ You:  … How do I check the tire pressure in my car?
+GPT-3: 
+```You can check tire pressure in your car by following these steps:```
+
+1. Locate your car's tire pressure specifications, which can usually be found in the owner's manual, on the driver's side door jamb, or in the glove compartment.
+
+2. Identify the tire pressure information for your specific tires, which is usually given in pounds per square inch (PSI).
+
+3. Use a tire pressure gauge to check the pressure in each tire, making sure the tires are cold (when the car has not been driven for at least an hour).
+
+4. Remove the valve cap from the tire and apply the gauge to the valve stem, pressing down until you hear a hissing sound.
+
+5. Take note of the reading on the gauge and compare it to the recommended PSI for your tires.
+
+6. If the tire pressure is too low, add air to the tire using an air compressor or at a gas station (many have air stations available).
+
+7. If the tire pressure is too high, release air from the tire using the gauge by pressing down on the valve stem.
+
+```It's important to check your tires regularly, ideally about once a month or before a long road trip.``` A tire pressure gauge is an inexpensive tool that can save you from costly repairs down the line, as incorrect tire pressure can cause excessive wear, reduced fuel efficiency, and compromise your safety on the road.
+
+✔ Copy recent code to clipboard? … no
+✔ You:  … Can you recommend which tire pressure gauge to buy?
+GPT-3: 
+Sure, here are some of the best tire pressure gauges on the market:
+
+1. Accutire MS-4021B: This gauge has an easy-to-read LCD screen and can measure pressures up to 150 PSI, making it great for both cars and trucks.
+
+2. Tekton 5941: This analog gauge is affordable and durable, with a sturdy design and a built-in reset button.
+
+3. AstroAI Digital Tire Pressure Gauge: This gauge is lightweight and portable, with an ergonomic design and a backlit LCD screen for easy readings.
+
+4. Milton S-921: This mechanical gauge is inexpensive and accurate, with a dual-head chuck that fits most valve stems and a built-in deflator valve.
+
+5. JACO ElitePro Tire Pressure Gauge: This gauge has a durable steel construction and a large 2-inch dial with glow-in-the-dark markings, making it easy to read in all lighting conditions.
+
+Each of these gauges has its advantages and disadvantages, but they are all highly rated and reliable options. Ultimately, the best gauge for you will depend on your personal preferences and budget.
+
+✔ You:  … I'm looking for something very basic.
+GPT-3: 
+In that case, the Milton S-921 gauge is a simple and affordable mechanical gauge that gets the job done. It has a single head chuck that fits both Schrader and Presta valve stems and a built-in deflator valve for quick adjustments. It's also compact and easy to store in your glove compartment or tool kit.
+
+✔ You:  … Oh, which oil should I buy?
+GPT-3: 
+The type of oil you need for your car will depend on several factors, such as the car's make and model, the age of the engine, and the driving conditions. Here are the main types of oil:
+
+1. Conventional Oil: This is the most basic type of oil, made from crude oil. It's suitable for engines with low mileage and is often recommended for older vehicles.
+
+2. Synthetic Oil: This oil is made from synthetic chemicals and is designed to provide better performance and protection for your engine. It's more expensive than conventional oil but lasts longer and performs better in extreme temperatures.
+
+3. High-Mileage Oil: This oil is formulated specifically for engines with high mileage (typically over 75,000 miles). It contains additives that help to reduce oil consumption and engine wear.
+
+Before buying oil, check your car's owner's manual for the recommended oil viscosity grade and look for an oil that meets the API (American Petroleum Institute) standards. These standards ensure that the oil meets certain quality and performance requirements. If you're not sure which oil to choose or have specific questions about your car, consult with a trusted mechanic.
+
+✔ You:  … I have a Ford Cmax 2014, hybrid. Which oil should I get?
+GPT-3: 
+Your 2014 Ford C-Max Hybrid requires SAE 5W-20 oil that meets Ford specifications WSS-M2C947-A and WSS-M2C930-A. Here are some recommended oil brands for your car:
+
+1. Motorcraft Synthetic Blend Motor Oil
+
+2. Castrol EDGE Full Synthetic Motor Oil 
+
+3. Valvoline Advanced Full Synthetic Motor Oil 
+
+4. Royal Purple High Performance Synthetic Motor Oil 
+
+5. Mobil 1 Full Synthetic Motor Oil 
+
+When choosing an oil, make sure it meets both Ford specifications and API standards. The recommended oil viscosity grade (5W-20) and type (synthetic blend or full synthetic) should also be taken into consideration.
+
+✔ You:  … Exit
+GPT-3: 
+Goodbye! Don't hesitate to ask if you have any more questions.
+
+✔ You:  … Thanks.
+GPT-3: 
+You're welcome!
+
+✔ You:  … Wait, where should I buy that oil from?
+GPT-3: 
+You can buy the recommended oil for your Ford C-Max Hybrid at most auto parts stores, car dealerships, or you can also order it online from retailers such as Amazon, Walmart, and AutoZone. 
+
+✔ You:  … Can you just give me a link?
+GPT-3: 
+Sure, here are links to some recommended oils on Amazon:
+
+1. [Motorcraft Synthetic Blend Motor Oil](https://www.amazon.com/Motorcraft-Synthetic-Blend-Motor-WSS-M2C946-A/dp/B01MCYAXDS)
+
+2. [Castrol EDGE Full Synthetic Motor Oil](https://www.amazon.com/Castrol-EDGE-Professional-Strength-Synthetic/dp/B00IJG0LZ6)
+
+3. [Valvoline Advanced Full Synthetic Motor Oil](https://www.amazon.com/Valvoline-Advanced-Full-Synthetic-Motor/dp/B07GSTD9XZ)
+
+4. [Royal Purple High Performance Synthetic Motor Oil](https://www.amazon.com/Royal-Purple-51520-Performance-Synthetic/dp/B001EOV5IW)
+
+5. [Mobil 1 Full Synthetic Motor Oil](https://www.amazon.com/dp/B0741CYB3X)
+
+Note that prices and shipping options may vary depending on your location and availability.
+
+✔ You:  … Thanks.
+GPT-3: 
+You're welcome! If you have any more questions, feel free to ask.
+
+? You:  › 
